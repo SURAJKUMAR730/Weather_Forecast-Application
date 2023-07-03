@@ -4,7 +4,11 @@
 https://surajkumar730.github.io/Weather-Report/
 
 ![1](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/c8105d05-c355-44c8-bb8d-0352933bde12)
-Weather Report Website Features & Description : 
+![2](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/b171c94e-b35e-45ae-9f2d-312f279d52a9)
+![4](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/7689a987-30e3-4734-af0c-1b8f9355fd65)
+![3](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/bee8c10c-149b-48bb-ac2a-26ab483ba476)
+
+# Weather Report Website Features & Description : 
 
 The Weather Report website, built with HTML, CSS, and JavaScript, offers a range of impressive features 
 to provide users with a comprehensive and user-friendly weather experience. Here are some of the key features of the website:
@@ -14,6 +18,7 @@ to provide users with a comprehensive and user-friendly weather experience. Here
     The website leverages JavaScript to fetch real-time weather data from a reliable API.
     This ensures that users receive accurate and 
     up-to-date weather information for their location, empowering them to plan their day accordingly.
+
 
 3. Location-Based Weather: 
 
