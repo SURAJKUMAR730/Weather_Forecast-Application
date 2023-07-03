@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" type="image/jpg" href="favicon.jpg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <title> Weather Report website</title>
+</head>
+
+<body>
+    <div class="heading">
+        <h1 class="logo"> Weather Report : </h1>
+    </div>
+    <div class="app-main">
+        <div class="searchInputBox">
+            <input type="text" id="input-box" class="input-box" placeholder="Enter city name..." autocomplete="off"
+                onclick="clearPlaceholder(this)" onblur="restorePlaceholder(this)">
+        </div>
+
+        <div class="weather-body">
+            <div class="location-details">
+                <div class="city" id="city">Data not available </div>
+                <div class="date" id="date">Sorry
+
+                </div>
+            </div>
+
+            <div class="weather-status">
+                <div class="temp" id="temp">&deg;</div>
+                <div class="min-max" id="min-max">&deg;&deg;</div>
+                <div class="weather" id="weather"></div>
+                <div id="img"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script2.js"></script>
+</body>
+
+</html>
