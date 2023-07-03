@@ -3,8 +3,7 @@
 # Website Link : 
 https://surajkumar730.github.io/Weather-Report/
 
-![1](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/c8105d05-c355-44c8-bb8d-0352933bde12)
-![2](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/b171c94e-b35e-45ae-9f2d-312f279d52a9)
+![1](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/c8105d05-c355-44c8-bb8d-0352933bde12)![2](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/b171c94e-b35e-45ae-9f2d-312f279d52a9)
 ![4](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/7689a987-30e3-4734-af0c-1b8f9355fd65)
 ![3](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/bee8c10c-149b-48bb-ac2a-26ab483ba476)
 
