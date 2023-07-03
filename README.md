@@ -55,7 +55,7 @@ to provide users with a comprehensive and user-friendly weather experience. Here
   it a valuable resource for users seeking accurate and accessible weather information. The detailed weather information, multi-day forecast,
   visual weather images & icons,  providing a comprehensive and engaging weather report.
 
-
+# Screen shot of Weather Website:
 
 ![1](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/c8105d05-c355-44c8-bb8d-0352933bde12) ![2](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/b171c94e-b35e-45ae-9f2d-312f279d52a9)
 ![4](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/7689a987-30e3-4734-af0c-1b8f9355fd65)
