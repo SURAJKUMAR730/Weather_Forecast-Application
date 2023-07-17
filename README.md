@@ -58,9 +58,18 @@ to provide users with a comprehensive and user-friendly weather experience. Here
   visual weather images & icons,  providing a comprehensive and engaging weather report.
 
 # Screen shot of Weather Website:
+![Main_menu](https://github.com/SURAJKUMAR730/Weather_report-Application/assets/106768289/bdf44019-687c-4c9d-8ab2-48688b34209b)
+![About_project](https://github.com/SURAJKUMAR730/Weather_report-Application/assets/106768289/a731e31f-adf5-4d10-a903-e749e8e7e3ca)
+![Location_main (2)](https://github.com/SURAJKUMAR730/Weather_report-Application/assets/106768289/6859d761-0ac0-45b7-9dd8-b21c5c2c593e)
+![rain (2)](https://github.com/SURAJKUMAR730/Weather_report-Application/assets/106768289/02e0d96e-94c9-4cb3-8f04-1c372fb6e3ff)
+![clear (2)](https://github.com/SURAJKUMAR730/Weather_report-Application/assets/106768289/cd63af59-4fb9-48b0-8573-2ad805b64ab0)
+![thunderstorm](https://github.com/SURAJKUMAR730/Weather_report-Application/assets/106768289/18bed249-c651-4010-b5c0-6f9858f0731f)
+![multi_main (2)](https://github.com/SURAJKUMAR730/Weather_report-Application/assets/106768289/9ca71d76-11b0-4b77-9d4e-e48c3a42833c)
+![Multi_Data (2)](https://github.com/SURAJKUMAR730/Weather_report-Application/assets/106768289/5f7965b4-5f9a-4cb0-9de4-c5772011e4dc)
 
-![1](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/c8105d05-c355-44c8-bb8d-0352933bde12) 
-![4](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/7689a987-30e3-4734-af0c-1b8f9355fd65)
-![2](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/b171c94e-b35e-45ae-9f2d-312f279d52a9)
-![3](https://github.com/SURAJKUMAR730/Weather_report-application/assets/106768289/bee8c10c-149b-48bb-ac2a-26ab483ba476)
+
+
+
+
+
 
