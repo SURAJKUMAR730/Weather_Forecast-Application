@@ -39,7 +39,7 @@ to provide users with a comprehensive and user-friendly weather experience. Here
    It includes additional details such as location,Date,Day,Month,Temperature and weather type
    enabling users to gain a comprehensive understanding of the current weather conditions.
 
-6. Four-Day Forecast:
+6. Multi-Day Forecast:
 
    Users can access a multi-day forecast that presents weather predictions for the upcoming four days. 
    This feature allows individuals to plan ahead, making informed decisions based on the anticipated weather conditions.
