@@ -1,7 +1,7 @@
 # Weather-Forecast-Application
 
 # Website Link : 
-[https://surajkumar730.github.io/Weather-Report/](https://surajkumar730.github.io/Weather_Forecast/)
+https://surajkumar730.github.io/Weather_Forecast/
 
 
 
