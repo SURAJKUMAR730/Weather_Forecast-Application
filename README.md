@@ -1,7 +1,7 @@
 # Weather-Forecast-Application
 
 # Website Link : 
-https://surajkumar730.github.io/Weather_Forecast/
+https://weatherforecastapplication730.netlify.app/
 
 
 
